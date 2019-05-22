@@ -1,0 +1,37 @@
+<pre>--- Summary ---
+Tests passed: 0 out of 8
+
+--- Details ---
+Test #0: failed 
+Test case description: Wiki example 1
+PicklingError: Can't pickle <function timeoutwrapper_analysis at 0x0000000005FD57B8>: it's not found as grade_analysis.timeoutwrapper_analysis
+
+Test #1: failed 
+Test case description: Wiki example 2
+PicklingError: Can't pickle <function timeoutwrapper_analysis at 0x0000000005FD5278>: it's not found as grade_analysis.timeoutwrapper_analysis
+
+Test #2: failed 
+Test case description: Wiki example 3: Six month range
+PicklingError: Can't pickle <function timeoutwrapper_analysis at 0x0000000006027C88>: it's not found as grade_analysis.timeoutwrapper_analysis
+
+Test #3: failed 
+Test case description: Normalization check
+PicklingError: Can't pickle <function timeoutwrapper_analysis at 0x0000000006027E48>: it's not found as grade_analysis.timeoutwrapper_analysis
+
+Test #4: failed 
+Test case description: One month range
+PicklingError: Can't pickle <function timeoutwrapper_analysis at 0x0000000006112AC8>: it's not found as grade_analysis.timeoutwrapper_analysis
+
+Test #5: failed 
+Test case description: Low Sharpe ratio
+PicklingError: Can't pickle <function timeoutwrapper_analysis at 0x0000000006112908>: it's not found as grade_analysis.timeoutwrapper_analysis
+
+Test #6: failed 
+Test case description: All your eggs in one basket
+PicklingError: Can't pickle <function timeoutwrapper_analysis at 0x0000000006112F28>: it's not found as grade_analysis.timeoutwrapper_analysis
+
+Test #7: failed 
+Test case description: Two year range
+PicklingError: Can't pickle <function timeoutwrapper_analysis at 0x0000000006112B38>: it's not found as grade_analysis.timeoutwrapper_analysis
+
+</pre>

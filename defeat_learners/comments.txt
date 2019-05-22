@@ -1,0 +1,18 @@
+<pre>--- Summary ---
+Tests passed: 0 out of 3
+
+--- Details ---
+Test #0: failed 
+Description: Test Case 1: Best4LinReg (group: best4lr)
+Exception: Unknown Exception
+
+Test #1: failed 
+Description: Test Case 2: Best4DT (group: best4dt)
+Exception: Unknown Exception
+
+Test #2: failed 
+Description: Test for author() method (group: author)
+IncorrectOutput: Test failed on one or more criteria.
+     Exception occured when calling author() method: Unknown Exception
+
+</pre>
